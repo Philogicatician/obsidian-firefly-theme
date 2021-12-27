@@ -3,7 +3,7 @@
 ## 📦 About this Version 
 ![Release Badge](https://img.shields.io/github/v/release/lazercaveman/firefly-obsidian-theme)
 
-This is is slightly modified version of the Firefly Theme.  Some things are slightly edited to fit my (Phil's) tastes.  All credit should really go to [lazercaveman](https://github.com/lazercaveman).  All the info below is from lazercaveman's ReadMe file and may be out of date since I don't plan to maintain these notes.  Check his [original version](https://github.com/lazercaveman/obsidian-firefly-theme) in case you're having trouble with stuff.
+This is is slightly modified version of the Firefly Theme.  Some things (heading colors, spacing, formatting on blockquotes) are slightly edited to fit my (Phil's) tastes.  All credit should really go to [lazercaveman](https://github.com/lazercaveman).  All the info below is from lazercaveman's ReadMe file and may be out of date since I don't plan to maintain these notes.  Check his [original version](https://github.com/lazercaveman/obsidian-firefly-theme) in case you're having trouble with stuff.
 
 ## 📥  How-To Install the Firefly Theme into Obsidian
 
