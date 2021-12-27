@@ -3,7 +3,7 @@
 ## 📦 About this Version 
 ![Release Badge](https://img.shields.io/github/v/release/lazercaveman/firefly-obsidian-theme)
 
-This is is an early version of the Firefly Theme, and some things may not be implemented yet - it works for me at the moment. **If you're missing something, feel free to open up an issue** to discuss possible changes.
+This is is slightly modified version of the Firefly Theme.  Some things are slightly edited to fit my (Phil's) tastes.
 
 ## 📥  How-To Install the Firefly Theme into Obsidian
 
@@ -11,7 +11,7 @@ This is is an early version of the Firefly Theme, and some things may not be imp
 1. Open the Settings in Obsidian
 2. Navigate to Appearances tab under Options
 3. Under the Themes section, click on the Browse button next to Community Themes
-4. Search for Night Owl in the Filter text input in the upper left corner
+4. Search for Firefly in the Filter text input in the upper left corner
 5. Click Use and then you're done! 🎉
 
 ### Manually
